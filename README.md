@@ -12,5 +12,5 @@
 * Copy `.env.example` to `.env`.
 * Setup your `.env` file.
 * Create a new database.
-* Import sql/test_vendon.sql into your database.
+* Import sql/quiz.sql into your database.
 * To run application: `php -S localhost:8000`.
